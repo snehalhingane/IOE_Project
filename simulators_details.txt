@@ -1,0 +1,33 @@
+Commercial Cloud Tools
+A look at some of the commercial cloud IoT tool providers.
+
+1)soasta
+SOASTA CloudTest
+Simulate massive virtual HTTP clients in the cloud.
+featurs:
+ Global coverage and top tier customers.
+ Includes many other tools (although not directly focused on the IoT)
+ Enterprise plans start at $2,500
+
+2)auotdesk-circuit
+Autodesk Circuits
+Hardware simulation for Arduino boards and open electronic lab hub.
+feature:
+ Focused on B2C and hardware selling.
+ Online PCB editor. Click to order.
+ Free to try.
+helix
+
+3)Windriver Helix
+Set of tools for enterprise ready Windriver Helix operating system, network infrastructure and device management cloud platform.
+feature:
+ Hardware Simulation of common industrial controllers running VXWorx
+ Includes virtualization tools for their own products (Simics).
+ Owned my Intel
+
+4)Wyliodrin
+Easily control and program your physical hardware remotely in your browser.
+feature:
+ Supports multiple boards and allows to program on several languages (requires a physical board connected with Internet)
+ Easy to set up and good documentation.
+ Free to try
